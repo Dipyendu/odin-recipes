@@ -12,6 +12,7 @@ img {
     display: block;
     margin: auto;
     width: fit-content;
+    height: auto;
 }
 
 p {
